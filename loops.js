@@ -14,5 +14,5 @@ function whileLoop(Num){
     console.log(Num);
     Num -= 1
   }
-  return "done."
+  return "done"
 }
